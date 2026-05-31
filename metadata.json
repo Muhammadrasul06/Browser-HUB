@@ -1,0 +1,6 @@
+{
+  "name": "Web Hub",
+  "description": "A high-security, minimal web browser hub featuring custom shortcut curation, draggable actions widget, safe content filtering, and local data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

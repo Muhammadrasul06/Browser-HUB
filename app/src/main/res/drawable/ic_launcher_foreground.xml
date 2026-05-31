@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Ambient Blue Glow behind the icon center -->
+    <path
+        android:fillColor="#2238BDF8"
+        android:pathData="M54,54m-33,0a33,33 0,1 1,66 0a33,33 0,1 1,-66 0" />
+
+    <!-- Solid Core Circle -->
+    <path
+        android:fillColor="#141A29"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,54m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+
+    <!-- Web Globe Horizontal Mesh -->
+    <path
+        android:strokeColor="#1E38BDF8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M28,54 L80,54" />
+    <path
+        android:strokeColor="#1E38BDF8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M31.5,42.5 C 42,48 66,48 76.5,42.5" />
+    <path
+        android:strokeColor="#1E38BDF8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M31.5,65.5 C 42,60 66,60 76.5,65.5" />
+
+    <!-- Web Globe Vertical Mesh -->
+    <path
+        android:strokeColor="#1E38BDF8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 L54,80" />
+    <path
+        android:strokeColor="#1E38BDF8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M43,30.5 C 49,42 49,66 43,77.5" />
+    <path
+        android:strokeColor="#1E38BDF8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M65,30.5 C 59,42 59,66 65,77.5" />
+
+    <!-- Center Security Hub Shield -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,41 L64,44 L64,52 C64,59.3 59.7,64.2 54,66 C48.3,64.2 44,59.3 44,52 L44,44 Z" />
+
+    <!-- Embedded White Lock Core -->
+    <path
+        android:fillColor="#141A29"
+        android:pathData="M54,48 C51.8,48 50,49.8 50,52 L50,57 C50,57.5 50.5,58 51,58 L57,58 C57.5,58 58,57.5 58,57 L58,52 C58,49.8 56.2,48 54,48 Z M54,50 C55.1,50 56,50.9 56,52 L56,53 L52,53 L52,52 C52,50.9 52.9,50 54,50 Z" />
+
+</vector>
